@@ -23,14 +23,13 @@ streamlit run app.py
 
 ## Deployment on Render :
 
-### 1. Go to Render.com and sign up/login.
-### 2. Select the Web Service option.
-### 3. Link your GitHub repository to Render.
-### 4. Set the environment to Python.
-### 5. In the "Build Command" field, enter:
+#### 1. Go to Render.com and sign up/login.
+#### 2. Select the Web Service option.
+#### 3. Link your GitHub repository to Render.
+#### 4. Set the environment to Python.
+#### 5. In the "Build Command" field, enter:
 pip install -r requirements.txt
-### 6. In the "Start Command" field, enter:
+#### 6. In the "Start Command" field, enter:
 streamlit run app.py
-### 7. Deploy:
-Once you configure the settings, Render will automatically build and deploy the app. The URL will be provided once the deployment is complete.
-and here is the live demo url--- https://lakshman-diwaakar-assignment.onrender.com
+#### 7. Deploy:
+Once you configure the settings, Render will automatically build and deploy the app. The URL will be provided once the deployment is complete, and here is the live demo url--- https://lakshman-diwaakar-assignment.onrender.com
