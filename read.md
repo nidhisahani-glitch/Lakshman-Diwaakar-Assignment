@@ -33,3 +33,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ### 7. Deploy:
 Once you configure the settings, Render will automatically build and deploy the app. The URL will be provided once the deployment is complete.
+and here is the live demo url--- https://lakshman-diwaakar-assignment.onrender.com
