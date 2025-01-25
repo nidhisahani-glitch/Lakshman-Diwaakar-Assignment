@@ -10,8 +10,7 @@ This is a Python-based framework that allows users to track changes in mutual fu
 ## Installation :
 
 ### 1. Clone the repository: 
-git clone https://github.com/your-repo/mutual-fund-allocation-tracker.git
-cd mutual-fund-allocation-tracker
+git clone https://github.com/nidhisahani-glitch/Lakshman-Diwaakar-Assignment.git
 
 ### 2. Install dependencies: 
 pip install -r requirements.txt
